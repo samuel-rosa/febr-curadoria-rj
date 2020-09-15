@@ -29,7 +29,7 @@ Curar os conjuntos de dados do Estado do Rio de Janeiro, oriundos do [Sistema de
 
 ### Atividades
 
-A atividade curadoria de conjuntos de dados envolve as seguintes atividades:
+A curadoria de conjuntos de dados envolve as seguintes atividades:
 
 * Melhoria da identificação dos conjuntos de dados,
 * Resgate da descrição dos métodos analíticos,

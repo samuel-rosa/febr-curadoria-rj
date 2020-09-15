@@ -1,9 +1,25 @@
-# febr-curadoria-rj
-Curadoria dos conjuntos de dados do Estado do Rio de Janeiro
+# Curadoria dos Conjuntos de Dados do Solo do Estado do Rio de Janeiro
 
-## Escopo da atividade
+## Objetivo
 
-A atividade tem como objetivo curar os vinte conjuntos de dados do Estado do Rio de Janeiro, oriundos do [Sistema de Informações de Solos Brasileiros](https://www.sisolos.cnptia.embrapa.br/), publicados no [Repositório Brasileiro Livre para Dados Abertos do Solo](https://www.pedometria.org/projeto/febr/). São eles:
+O objetivo da atividade é curar os vinte conjuntos de dados do Estado do Rio de Janeiro, oriundos do [Sistema de Informações de Solos Brasileiros (BDSolos)](https://www.sisolos.cnptia.embrapa.br/), publicados no [Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR)](https://www.pedometria.org/projeto/febr/). Ao final da atividade, os vinte conjuntos de dados estarão totalmente completos e apresentarão plena consistência documental com os padrões do FEBR..
+
+## Procedimentos
+
+A curadoria de um conjunto de dados inicia com um diagnóstico de sua situação a fim de identificar a necessidade de melhorias. Essas melhorias podem incluir as seguintes atividades:
+
+* Detalhamento da identificação dos conjuntos de dados,
+* Resgate da descrição dos métodos analíticos,
+* Validação das unidades de medida,
+* Atribuição de códigos de identificação padronizados às variáveis do solo,
+* Digitalização de dados faltantes, e
+* Validação dos dados digitalizados.
+
+Mais informações estão disponíveis no [Guia de Curadoria de Dados](https://docs.google.com/document/d/1vWPKg_k_B2T76MxgsX77GgqL6mTPS7vQaToGEZ_GmsE).
+
+## Conjuntos de dados
+
+Os conjuntos de dados do solo do Estado do Rio de Janeiro a serem curados são os seguintes:
 
 * `ctb0002`: Classificação taxonômica do solo em Pinheiral, RJ
 * `ctb0567`: Levantamento Semidetalhado dos Solos da Microbacia do Córrego da Tábua, no Município de São Fidélis, Rio de Janeiro
@@ -24,17 +40,6 @@ A atividade tem como objetivo curar os vinte conjuntos de dados do Estado do Rio
 * `ctb0814`: Projeto de Irrigação e Drenagem da Cana-de-açúcar na Região Norte-fluminense
 * `ctb0832`: Levantamento do Estado do Rio de Janeiro
 * `ctb0838`: Dissertação de Elias Mendes Costa
-
-A curadoria desses vinte conjuntos de dados envolverá as seguintes atividades:
-
-* Melhoria da identificação dos conjuntos de dados,
-* Resgate da descrição dos métodos analíticos,
-* Validação das unidades de medida,
-* Atribuição de códigos de identificação padronizados às variáveis do solo,
-* Digitalização de dados faltantes, e
-* Validação dos dados digitalizados.
-
-Ao final da atividade, os vinte conjuntos de dados estarão totalmente completos e apresentarão plena consistência documental.
 
 ## Troca de ideias
 

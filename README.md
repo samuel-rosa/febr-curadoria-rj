@@ -3,9 +3,7 @@ Curadoria dos conjuntos de dados do Estado do Rio de Janeiro
 
 ## Fase I
 
-### Objetivo
-
-Curar os conjuntos de dados do Estado do Rio de Janeiro, oriundos do [Sistema de Informações de Solos Brasileiros](https://www.sisolos.cnptia.embrapa.br/), publicados no [Repositório Brasileiro Livre para Dados Abertos do Solo](https://www.pedometria.org/projeto/febr/). São eles:
+A atividade tem como objetivo curar os vinte conjuntos de dados do Estado do Rio de Janeiro, oriundos do [Sistema de Informações de Solos Brasileiros](https://www.sisolos.cnptia.embrapa.br/), publicados no [Repositório Brasileiro Livre para Dados Abertos do Solo](https://www.pedometria.org/projeto/febr/). São eles:
 
 * `ctb0002`: Classificação taxonômica do solo em Pinheiral, RJ
 * `ctb0567`: Levantamento Semidetalhado dos Solos da Microbacia do Córrego da Tábua, no Município de São Fidélis, Rio de Janeiro
@@ -27,9 +25,7 @@ Curar os conjuntos de dados do Estado do Rio de Janeiro, oriundos do [Sistema de
 * `ctb0832`: Levantamento do Estado do Rio de Janeiro
 * `ctb0838`: Dissertação de Elias Mendes Costa
 
-### Atividades
-
-A curadoria de conjuntos de dados envolve as seguintes atividades:
+A curadoria desses vinte conjuntos de dados envolverá as seguintes atividades:
 
 * Melhoria da identificação dos conjuntos de dados,
 * Resgate da descrição dos métodos analíticos,
@@ -38,9 +34,11 @@ A curadoria de conjuntos de dados envolve as seguintes atividades:
 * Digitalização de dados faltantes, e
 * Validação dos dados digitalizados.
 
+Ao final da atividade, os vinte conjuntos de dados estarão totalmente completos e apresentarão plena consistência documental.
+
 ## Troca de ideias
 
-Todas as discussões sobre as atividades a serem desenvolvidas estão concentradas em https://github.com/samuel-rosa/febr-curadoria-rj/issues. Uma nova `issue` deve ser aberta para todo novo tópico de discussão. Quando uma discussão chega ao fim, a respectiva `issue` deve ser fechada.
+Todas as discussões sobre as tarefas a serem cumpridas estão concentradas em https://github.com/samuel-rosa/febr-curadoria-rj/issues. Uma nova `issue` deve ser aberta para todo novo tópico de discussão. Quando uma discussão chega ao fim, a respectiva `issue` deve ser fechada.
 
 ## Equipe
 

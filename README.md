@@ -23,7 +23,7 @@ Os conjuntos de dados do solo do Estado do Rio de Janeiro a serem curados são o
 
 * `ctb0002`: Classificação taxonômica do solo em Pinheiral, RJ
 * `ctb0567`: Levantamento Semidetalhado dos Solos da Microbacia do Córrego da Tábua, no Município de São Fidélis, Rio de Janeiro
-* `ctb0568`: Levantamento pedológico, vulnerabilidade e potencialidade ao uso das terras: quadrículas de Silva Jardim e Rio das Ostras, Estado do Rio de Janeiro
+* `ctb0568`: Levantamento pedológico, vulnerabilidade e potencialidade ao uso das terras: quadrículas de Silva Jardim e Rio das Ostras, Estado do Rio de Janeiro ([Issue #2](../../issues/2))
 * `ctb0574`: Mapeamento Pedológico e Interpretações Úteis ao Planejamento Ambiental do Município do Rio de Janeiro
 * `ctb0578`: Levantamento Detalhado dos Solos da Fazenda Angra-PESAGRO-Rio Estação Experimental de Campos
 * `ctb0595`: Levantamento Semidetalhado dos Solos da Área do Sistema Integrado de Produção Agroecológica (SIPA) - KM 47 - Seropédica, RJ

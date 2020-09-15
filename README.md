@@ -44,4 +44,4 @@ Todas as discussões sobre as tarefas a serem cumpridas estão concentradas em h
 
 * [Alessandro Samuel-Rosa](https://github.com/samuel-rosa) (Coordenador do FEBR—UTFPR)
 * Gabriel Panca Santos (Bolsista do FEBR—Suporte técnico—UTFPR)
-* [Wenceslau Geraldes Teixeira](https://github.com/WenceslauGT) (Coordenador do projeto—EMBRAPA Solos)
+* [Wenceslau Geraldes Teixeira](https://github.com/WenceslauGT) (Coordenador da atividade—EMBRAPA Solos)

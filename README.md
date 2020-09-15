@@ -1,7 +1,7 @@
 # febr-curadoria-rj
 Curadoria dos conjuntos de dados do Estado do Rio de Janeiro
 
-## Fase I
+## Escopo da atividade
 
 A atividade tem como objetivo curar os vinte conjuntos de dados do Estado do Rio de Janeiro, oriundos do [Sistema de Informações de Solos Brasileiros](https://www.sisolos.cnptia.embrapa.br/), publicados no [Repositório Brasileiro Livre para Dados Abertos do Solo](https://www.pedometria.org/projeto/febr/). São eles:
 

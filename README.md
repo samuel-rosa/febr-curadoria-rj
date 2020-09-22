@@ -17,7 +17,7 @@ Mais informações sobre a curadoria estão disponíveis no [Guia de Curadoria d
 
 ## Método de trabalho
 
-Todas as discussões sobre as tarefas a serem cumpridas estão concentradas em https://github.com/samuel-rosa/febr-curadoria-rj/issues. Uma nova `issue` deve ser aberta para todo novo tópico de discussão. Quando uma discussão chega ao fim, a respectiva `issue` deve ser fechada.
+Todas as discussões sobre as tarefas a serem cumpridas estão concentradas em https://github.com/samuel-rosa/febr-curadoria/issues. Uma nova `issue` deve ser aberta para todo novo tópico de discussão. Quando uma discussão chega ao fim, a respectiva `issue` deve ser fechada.
 
 ## Projetos de curadoria
 

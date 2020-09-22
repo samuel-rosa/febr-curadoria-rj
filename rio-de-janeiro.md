@@ -1,6 +1,6 @@
 ---
 title: Curadoria dos Conjuntos de Dados do Solo do Estado do Rio de Janeiro
-author: Wenceslau Geraldes Teixeira (@WenceslauGT), Alessandro Samuel-Rosa (@samuel-rosa)
+author: Wenceslau Geraldes Teixeira (@WenceslauGT), Mayara Magalhães da Gama de Lima (mayaramgama), Letícia Guimarães Pimentel (@LeticiaG97), Alessandro Samuel-Rosa (@samuel-rosa)
 date_start: 2020-09-14
 date_end:
 ---
@@ -16,6 +16,7 @@ date_end:
 | ctb0599 | Projeto Parque Frei Veloso - Levantamento Detalhado dos Solos do Campus da Ilha do Fundão UFRJ ||
 | ctb0670 | LATOSSOLO VERMELHO-AMARELO, PODZÓLICO VERMELHO-AMARELO. ARGILA DE ATIVIDADE BAIXA INTERMEDIÁRIOS: CONCEITUAÇÃO E DISTINÇÃO ||
 | ctb0765 | 2nd Global Workshop on Digital Soil Mapping for Regions and Countries with Sparse Soil Data Infrastructures - Tour Guide ||
+| ctb0769 | Conjunto de dados do levantamento exploratório 'PROJETO RADAMBRASIL - Levantamento de Recursos Naturais. Volume 32. ||
 | ctb0776 | Anais da I Reunião de Classificação, Correlação de Solos e Interpretação de Aptidão Agrícola de solos ||
 | ctb0778 | Caracterização de Paisagens e Solos Representativos do Estado do Rio de Janeiro para Fins de Estimativa de Estoques de Carbono no Solo ||
 | ctb0796 | Levantamento Semidetalhado de Solos do Município de Paty dos Alferes e Sub-Bacias do Córrego do Saco-Rio Ubá, RJ ||

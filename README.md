@@ -2,7 +2,7 @@
 
 ## Apresentação
 
-Este repositório concentra o registro das atividades de curadoria dos conjuntos de dados do solo publicados no [Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR)](https://www.pedometria.org/projeto/febr/). O objetivo da curadoria é melhorar a qualidade dos conjuntos de dados, principalmente alcançando sua completude e consistência documental.
+Este repositório concentra o registro das atividades de curadoria dos conjuntos de dados do solo publicados no [Repositório Brasileiro Livre para Dados Abertos do Solo (FEBR)](https://www.pedometria.org/projeto/febr/). Isso é feito inserindo dados e informações faltantes sobre identificação do conjunto de dados, métodos de análise empregados, digitalização de dados, estimativa de coordenadas geográficas, entre outros. O objetivo é melhorar a qualidade dos conjuntos de dados, principalmente alcançando sua completude e consistência documental.
 
 A curadoria de um conjunto de dados inicia com um diagnóstico de sua situação a fim de identificar a necessidade de melhorias. Essas melhorias costumam incluir as seguintes atividades:
 

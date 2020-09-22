@@ -1,6 +1,6 @@
 ---
 title: Curadoria dos Conjuntos de Dados do Solo do Estado do Rio de Janeiro
-author: Wenceslau Geraldes Teixeira (@WenceslauGT), Mayara Magalhães da Gama de Lima (mayaramgama), Letícia Guimarães Pimentel (@LeticiaG97), Alessandro Samuel-Rosa (@samuel-rosa)
+author: Wenceslau Geraldes Teixeira (@WenceslauGT), Mayara Magalhães da Gama de Lima (mayaramgama), Letícia Guimarães Pimentel (@LeticiaG97)
 date_start: 2020-09-14
 date_end:
 ---
